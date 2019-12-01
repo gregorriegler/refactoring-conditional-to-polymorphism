@@ -1,2 +1,2 @@
 # Refactor Conditionals
-This is a simple refactoring kata to practice the replacement of conditionals.
+This is a simple refactoring kata to practice the refactoring of conditionals.
